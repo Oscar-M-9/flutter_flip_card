@@ -10,6 +10,7 @@
 - **Soporte para tarjetas con frente y reverso**: Puedes personalizar el contenido en ambas caras de la tarjeta `front_flip_card` y `back_flip_card`. 
 
 ## Captura de Pantalla
-![Flip Card Flutter](<assets/Screenrecorder-2024-10-14-17-32-31-104 (1).gif>)
+
+<img src="assets/Screenrecorder-2024-10-14-17-32-31-104 (1).gif" height="500" alt="Flip Card Flutter" />
 
 
